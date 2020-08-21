@@ -1,0 +1,5 @@
+# APIs to disable, as a semicolon separated list.
+nxt.disabledAPIs=sellAlias
+
+# Groups of APIs to disable, as a semicolon separated list of API tag names.
+nxt.disabledAPITags=Shuffling

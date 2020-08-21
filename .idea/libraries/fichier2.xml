@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fichier">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nxt-cloneservice.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nxt-clone.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

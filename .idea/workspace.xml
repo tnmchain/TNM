@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3890bb1b-752d-45bd-893c-e1bcab932758" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gEOrNPut0mDxMqtXYNYVX5M0kJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../NorChain" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager" selected="Batch.run">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\achou\Desktop\85scripts\blockchain norchain" />
+      <option name="PARENT_ENVS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="run.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/run.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Batch.run" />
+        <item itemvalue="Shell Script.run.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3890bb1b-752d-45bd-893c-e1bcab932758" name="Default Changelist" comment="" />
+      <created>1597676486379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597676486379</updated>
+      <workItem from="1597676491140" duration="1959000" />
+      <workItem from="1597678862210" duration="429000" />
+      <workItem from="1597686445020" duration="1877000" />
+      <workItem from="1597698985771" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="120" y="0" key="#Project_Structure" timestamp="1597686523667">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="120" y="0" key="#Project_Structure/0.0.1280.690@0.0.1280.690" timestamp="1597686523667" />
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597690906742">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.690@0.0.1280.690" timestamp="1597690906742" />
+    <state x="420" y="99" key="FileChooserDialogImpl" timestamp="1597679289616">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="420" y="99" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1597679289616" />
+    <state width="1237" height="165" key="GridCell.Tab.0.bottom" timestamp="1597677156635">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1597677156635" />
+    <state width="1237" height="165" key="GridCell.Tab.0.center" timestamp="1597677156635">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1597677156635" />
+    <state width="1237" height="165" key="GridCell.Tab.0.left" timestamp="1597677156634">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1597677156634" />
+    <state width="1237" height="165" key="GridCell.Tab.0.right" timestamp="1597677156635">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1597677156635" />
+    <state x="141" y="0" key="SettingsEditor" timestamp="1597691464816">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1597691464816" />
+    <state x="22" y="0" key="new project wizard" timestamp="1597699608941">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="22" y="0" key="new project wizard/0.0.1280.690@0.0.1280.690" timestamp="1597699608941" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
